@@ -6,9 +6,9 @@ Meet the wonderful students of Greenhill Biligual School Colombia
 
 ## Links
 
-- [Repo](https://github.com/steveWDamesJr/mighty-studentsofgreenhill.github.io<project-name> "<project-name> Repo")
+- [Repo](https://github.com/steveWDamesJr/mighty-studentsofgreenhill.github.io<mighty-studentsofgreenhill.github.io> "<mighty-studentsofgreenhill.github.io> Repo")
 
-- [Live](<Homepage url> "Live View")
+- [Live](<https://stevewdamesjr.github.io/mighty-studentsofgreenhill.github.io/> "Live View")
 
 
 ## Screenshots
@@ -34,7 +34,7 @@ Meet the wonderful students of Greenhill Biligual School Colombia
 
 **steveWDamesJr**
 
-- [Email](mailto:stevewdevjr@gmail.com?subject=Let's Colaborate "Pleased to meet you!")
+- [Email] (mailto:stevewdevjr@gmail.com?subject=Let's Colaborate "Pleased to meet you!")
 - [Website](https://github.com/steveWDamesJr "Welcome")
 
 ## 🤝 Support
